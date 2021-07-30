@@ -1,0 +1,1 @@
+# Laravel Mix の練習です。
